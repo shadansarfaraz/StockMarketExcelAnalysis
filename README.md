@@ -106,7 +106,7 @@ It provides clear, actionable insights for management, enabling quick evaluation
 ---
 
 ## 👤 Author
-**Shadan Tech**   
+**Shadan**   
 _Data Analyst_
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shadansarfaraz1)  
